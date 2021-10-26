@@ -1,0 +1,1 @@
+# Ledger Live - Linux Launcher
